@@ -1,1 +1,4 @@
-# CSE-122-FALL2023
+NAME:Ayesha Alam Riya
+Id:22234103082
+Intake;50
+section:3
